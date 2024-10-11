@@ -79,12 +79,6 @@ Call frames_to_video(frames, 'output.mp4')
 
 You can find example output videos demonstrating the performance of our Q-learning and SARSA algorithms in the `assets` folder:
 
-
-### Q-learning Algorithm
-
-### SARSA Algorithm
-
-
 These videos showcase the agent's behavior in the Taxi-v3 environment after training with each algorithm. You can observe how the agent navigates the environment, picks up passengers, and drops them off at their destinations.
 
 To view these videos:
